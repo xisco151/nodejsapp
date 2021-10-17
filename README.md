@@ -1,2 +1,3 @@
 # nodejsapp
-Aplicacion NodeJS
+
+Aplicación Hello-World en nodeJS simple
